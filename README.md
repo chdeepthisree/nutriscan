@@ -1,4 +1,9 @@
 Disease Detection and Dietary Suggestions using Machine Learning
 
- Developed a Python-based machine learning model to predict diseases based on user-selected symptoms.
- Established an intuitive user interface for seamless symptom input, disease prediction, and the dietary suggestions– Offered dietary suggestions and disease descriptions to support effective care– Integrated machine learning libraries like Pandas, and NumPy to optimize data processing and model performance.
+
+Libraries:
+
+Numpy,pandas,tkinter,mpl_toolkits.mplot3d,sklearn.preprocessing.
+
+RandomForest model training & Prediction:
+It imp the alg from scikit-learn & train the model using the feature matrix and target variable.
